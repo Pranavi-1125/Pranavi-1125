@@ -41,6 +41,17 @@
 
 ## 🚀 Featured Projects
 
+### 📊 [checkyourgpa](https://github.com/Pranavi-1125/checkyourgpa)
+> A GPA calculator which helps to calculate SGPA and CGPA for students
+- **Tech:** HTML, CSS, Javascript
+
+---
+### 📊 [Portfolio](https://github.com/Pranavi-1125/Portfolio)
+> Portfolio website
+- **Tech:** HTML, CSS, Javascript
+
+---
+
 ### 🔥 [Forest Fire Detection — AICTE](https://github.com/Pranavi-1125/ForestFireDetection_AICTE)
 > An AI/ML model built to detect forest fires using image data. Developed as part of the AICTE internship program.
 - **Tech:** Python, Jupyter Notebook, Deep Learning
@@ -59,27 +70,22 @@
 
 ---
 
-### 📊 [DSA Practice](https://github.com/Pranavi-1125/DSA)
-> Solving problems from **Striver's DSA Sheet** systematically to build strong problem-solving fundamentals.
-- **Tech:** Java
-
----
-
+<!--
 ## 📜 Certifications & Courses
 
 - 🏅 **LinkedIn Learning** — Python & JavaScript courses
 - 🏅 **AICTE Internship Program** — AI/ML (Forest Fire Detection project)
 
----
-
+--- -->
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pranavi-1125&show_icons=true&theme=tokyonight&hide_border=true" /> -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pranavi-1125&show_icons=true&theme=tokyonight&hide_border=true" /> 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pranavi-1125&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavi-1125&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
-
+-->
 ---
 
 ## 🤝 Connect with Me
