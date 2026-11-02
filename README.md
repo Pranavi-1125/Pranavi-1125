@@ -16,7 +16,6 @@
 - 🤖 Exploring **AI/ML**, **Full Stack Web Development**, and **DSA**
 - 🌱 Currently sharpening my skills through hands-on projects and courses
 - 💼 **Open to internship opportunities**
-- ⚡ Fun fact: I train models and clone Netflix in my spare time 😄
 
 ---
 
